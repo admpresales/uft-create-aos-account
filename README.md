@@ -1,4 +1,4 @@
-# UFT-Create-account-in-AOS
+# uft-create-aos-account
 This UFT test creates a new account in AOS
 
 The test was created with both web and WPF add-ins. You can delete the WPF add-in if you like.
