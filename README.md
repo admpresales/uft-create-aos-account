@@ -1,4 +1,4 @@
-# uft-create-aos-account
+# uftone-aos-web-create-account
 # Description
 This UFT test creates a new account in AOS
 
@@ -11,4 +11,6 @@ If the account already exists, the test will fail with an error message in the t
 
 <b>You</b> are responsible for creating a new username in the excel spreadsheet prior to running.
 
-The script closes all open copies of Internet Explorer, than launches a new copy of IE to the AOS running on Nimbus Server
+The script closes all open copies of Internet Explorer, then launches a new copy of IE to the AOS running on Nimbus Server
+
+##### Prior to UFT renaming in 2019 was called uft-gui-create-aos-account
